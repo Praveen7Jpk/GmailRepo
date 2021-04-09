@@ -1,1 +1,2 @@
 Second user added feature file F2
+Third User : Fixed the feature file F2
